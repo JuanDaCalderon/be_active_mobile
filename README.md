@@ -1,16 +1,26 @@
-# be_active_mobile
+# BeActive Mobile App
 
-A new Flutter project.
+## Desarrollado por:
 
-## Getting Started
+* Juan David Calderon
+* Luis Alberto Cortes
 
-This project is a starting point for a Flutter application.
+## Pantallas desarrolladas
 
-A few resources to get you started if this is your first Flutter project:
+- Pantalla de inicio
+- Programar pausa activa
+- Programar pausa activa predeterminada
+- Crear Pausa activa
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Herramientas utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Material design
+
+## Instalacion
+
+1. Descargue el repostorio que esta en el siguiente enlace https://github.com/JuanDaCalderon/be_active_mobile
+
+2. En la carpeta principal del proyecto (BeActiveMobile) ejecute el comando `flutter pub get` , con lo que instalara la dependencias 
+
+3. Con las dependencias instaladas, en la misma carpeta ejecute el comando `flutter build apk` Para generar el archivo APK en la carpeta de 'build\app\outputs\apk\release'
